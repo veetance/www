@@ -26,7 +26,6 @@ var app = new Framework7({
         path: '/page2/',
         url: 'pages/page2.html',
       },
-
       {
         path: '/',
         url: 'index.html',
